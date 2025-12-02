@@ -1,0 +1,17 @@
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\TrackMyTeamApplication.java
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\repository\UserRepository.java
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\repository\TaskRepository.java
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\model\TaskStatus.java
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\model\Task.java
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\config\SecurityConfig.java
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\controller\AuthController.java
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\config\ApplicationConfig.java
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\service\AuthService.java
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\service\EmailService.java
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\service\TaskService.java
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\config\JwtAuthenticationFilter.java
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\service\ReminderScheduler.java
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\model\User.java
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\controller\TaskController.java
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\util\JwtUtil.java
+C:\Users\rai09\.gemini\antigravity\scratch\TrackMyTeam\backend\src\main\java\com\trackmyteam\backend\model\Role.java

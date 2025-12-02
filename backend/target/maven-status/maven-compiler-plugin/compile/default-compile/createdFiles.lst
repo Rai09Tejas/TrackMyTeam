@@ -1,0 +1,17 @@
+com\trackmyteam\backend\model\Task.class
+com\trackmyteam\backend\service\ReminderScheduler.class
+com\trackmyteam\backend\service\EmailService.class
+com\trackmyteam\backend\repository\TaskRepository.class
+com\trackmyteam\backend\repository\UserRepository.class
+com\trackmyteam\backend\config\ApplicationConfig.class
+com\trackmyteam\backend\service\AuthService.class
+com\trackmyteam\backend\util\JwtUtil.class
+com\trackmyteam\backend\service\TaskService.class
+com\trackmyteam\backend\model\TaskStatus.class
+com\trackmyteam\backend\model\User.class
+com\trackmyteam\backend\config\SecurityConfig.class
+com\trackmyteam\backend\model\Role.class
+com\trackmyteam\backend\controller\AuthController.class
+com\trackmyteam\backend\controller\TaskController.class
+com\trackmyteam\backend\TrackMyTeamApplication.class
+com\trackmyteam\backend\config\JwtAuthenticationFilter.class
