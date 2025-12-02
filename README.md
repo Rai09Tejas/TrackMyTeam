@@ -320,44 +320,6 @@ curl -X DELETE http://localhost:8080/api/tasks/1 \
 
 ---
 
-## Configuration
-
-Key configuration properties in `src/main/resources/application.properties`:
-
-```properties
-# Application Name
-spring.application.name=TrackMyTeam
-
-# H2 Database Configuration
-spring.datasource.url=jdbc:h2:mem:trackmyteam
-spring.datasource.driverClassName=org.h2.Driver
-spring.datasource.username=sa
-spring.datasource.password=
-
-# JPA Configuration
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.H2Dialect
-
-# H2 Console
-spring.h2.console.enabled=true
-spring.h2.console.path=/h2-console
-
-# JWT Configuration
-jwt.secret=5367566B59703373367639792F423F4528482B4D6251655468576D5A71347437
-jwt.expiration=86400000
-
-# Mail Configuration (Update with actual credentials for email functionality)
-spring.mail.host=smtp.gmail.com
-spring.mail.port=587
-spring.mail.username=your-email@gmail.com
-spring.mail.password=your-app-password
-spring.mail.properties.mail.smtp.auth=true
-spring.mail.properties.mail.smtp.starttls.enable=true
-```
-
----
-
 ## Email Notifications
 
 The application includes an email service that sends notifications for:
